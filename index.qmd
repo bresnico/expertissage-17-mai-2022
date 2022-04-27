@@ -1,10 +1,10 @@
 ---
 title: "Expertissage"
 subtitle: "Un exemple de scénarisation des cours pour ingénieur·es en formation"
+date: "Mardi 17 mai 2022"
 author:
-  - Samuel Rey-Mermet, HES-SO
-  - Nicolas Bressoud, HEP-VS
-Date: "Mardi 17 mai 2022"
+    - Samuel Rey-Mermet, HES-SO
+    - Nicolas Bressoud, HEP-VS
 format:
   revealjs:
     logo: img/logo_trans.png
