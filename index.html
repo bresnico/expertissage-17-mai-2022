@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en"><head>
   <meta charset="utf-8">
-  <meta name="generator" content="quarto-0.9.295">
+  <meta name="generator" content="quarto-0.9.309">
 
-  <title>Untitled</title>
+  <meta name="author" content="Samuel Rey-Mermet, HES-SO">
+  <meta name="author" content="Nicolas Bressoud, HEP-VS">
+  <title>Expertissage</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -238,6 +240,7 @@
     }
     .reveal .slide:not(.center) {
       height: 100%;
+      overflow-y: auto;
     }
     .reveal .slide.scrollable {
       overflow-y: auto;
@@ -319,13 +322,82 @@
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" class="center">
-  <h1 class="title">Untitled</h1>
+<section id="title-slide" data-background-image="https://images.unsplash.com/photo-1581094488379-6a10d04c0f04?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1470&amp;q=80" data-background-opacity="0.2" class="center">
+  <h1 class="title">Expertissage</h1>
+  <p class="subtitle">Un exemple de scénarisation des cours pour ingénieur·es en formation</p>
+  <p class="author">Samuel Rey-Mermet, HES-SO</p>
+  <p class="author">Nicolas Bressoud, HEP-VS</p>
 </section>
 
-<section class="slide level2">
+<section id="cadre-pour-nous" class="slide level2">
+<h2>Cadre (pour nous)</h2>
+<p><small></small></p><small>
+<p>La profession d’ingénieur·e nécessite la prise en compte de degrés d’incertitude dans les choix opérés. En formation, l’accompagnement des étudiant·es dans le développement d’une pensée complexe par rapport aux défis d’ingénierie paraît être un enjeu important. Le projet “expertissage” est une tentative d’accompagner tout au long du semestre les étudiant·es d’un cours de sciences des matériaux dans le passage d’une pensée simple quant aux choix à opérer (oui ou non) à une pensée complexe (comment décider sur la base des informations à disposition ? quelle prise de risque ?).</p>
+<p>Dans le cadre de ce café pédagogique, le coeur scientifique de “expertissage” sera exposé, de même que son expérimentation. Les échanges avec les participant·es contribueront à développer l’outil de scénarisation.</p>
+</small><p><small></small></p>
+</section>
+<section id="origine-et-contexte" class="slide level2">
+<h2>Origine et Contexte</h2>
+<p>Sam 3 min</p>
+<ul>
+<li class="fragment">Origine d’expertissage</li>
+<li class="fragment">Problèmes et enjeux identifiés</li>
+</ul>
+</section>
+<section id="cadre-théorique" class="slide level2">
+<h2>Cadre théorique</h2>
+<p>Nico 7 min</p>
+<ul>
+<li class="fragment">Cadre théorique : poser les notions, poser la vision de l’apprentissage</li>
+<li class="fragment">Ecrire les 3-4 principes fondés retenus</li>
+</ul>
+</section>
+<section id="expertissage" class="slide level2">
+<h2>Expertissage !</h2>
+<p>Nico 2 min</p>
+<ul>
+<li class="fragment">Expertissage !</li>
+<li class="fragment">montrer le “délivrabnle”, càd la vidéo Youtube</li>
+</ul>
+</section>
+<section id="implémentation" class="slide level2">
+<h2>Implémentation</h2>
+<p>Sam 10 min</p>
+<ul>
+<li class="fragment">montrer comment il a implémenté, mis en action</li>
+<li class="fragment">contraintes du réel, COVID</li>
+<li class="fragment">exemples</li>
+</ul>
+</section>
+<section id="résultats" class="slide level2">
+<h2>Résultats</h2>
+<p>Sam 5 min</p>
+<ul>
+<li class="fragment">Résultats</li>
+<li class="fragment">prlésewnter un cas clinique : Lara et son logigramme</li>
+<li class="fragment">conséquences pour la pratique de Sam : exercices plus durs, plus grande quantité d’exercices, toujours pas moins de théorie.</li>
+<li class="fragment">conséquences pour les étudiants : plus grande prise de notes, évolution du logigramme avant/après.</li>
+</ul>
+</section>
+<section id="perspecrtives" class="slide level2">
+<h2>Perspecrtives</h2>
+<p>Sam 3 min</p>
+<ul>
+<li class="fragment">perspectives</li>
+<li class="fragment">Examen : poser une question qui imoplique un logigramme. (voilà le problème, montrez moi le logigramme. pas de guidé).</li>
+<li class="fragment">variables… semi-expérimental</li>
+<li class="fragment">Une idée serait d’orienter client : montrer un exa “sans expertissage” et un exa “avec expertissage” et voir ce que dit le parton “quel examen prépare le mieux au métiers” ?</li>
+</ul>
+</section>
+<section id="débat" class="slide level2">
+<h2>Débat</h2>
+</section>
+<section id="crédits" class="slide level2">
+<h2>Crédits</h2>
+<p>Crédits des images, par ordre d’apparition.</p>
+<p><a href="https://unsplash.com/photos/xYCBw1uIP_M">ThisisEngineering RAEng</a></p>
 
-<div class="footer footer-default">
+<img src="img/logo_trans.png" class="slide-logo r-stretch"><div class="footer footer-default">
 
 </div>
 </section>
@@ -381,7 +453,7 @@
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: false,
+        slideNumber: 'c/t',
 
         // 'all', 'print', or 'speaker'
         showSlideNumber: 'all',
@@ -486,14 +558,14 @@
         previewLinks: false,
 
         // Transition style (none/fade/slide/convex/concave/zoom)
-        transition: 'none',
+        transition: 'slide',
 
         // Transition speed (default/fast/slow)
         transitionSpeed: 'default',
 
         // Transition style for full page slide backgrounds
         // (none/fade/slide/convex/concave/zoom)
-        backgroundTransition: 'none',
+        backgroundTransition: 'fade',
 
         // Number of slides away from the current that are visible
         viewDistance: 3,

@@ -1,5 +1,86 @@
 ---
-title: "Untitled"
-format: revealjs
+title: "Expertissage"
+subtitle: "Un exemple de scénarisation des cours pour ingénieur·es en formation"
+author:
+  - Samuel Rey-Mermet, HES-SO
+  - Nicolas Bressoud, HEP-VS
+Date: "Mardi 17 mai 2022"
+format:
+  revealjs:
+    logo: img/logo_trans.png
+    theme: solarized
+    transition: slide
+    background-transition: fade
+    incremental: true
+    slide-number: c/t
+    show-slide-number: all
+    scrollable: true
+title-slide-attributes: 
+  data-background-image: "https://images.unsplash.com/photo-1581094488379-6a10d04c0f04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  data-background-opacity: "0.2"
 ---
 
+## Cadre (pour nous)
+
+<small>
+
+La profession d'ingénieur·e nécessite la prise en compte de degrés d'incertitude dans les choix opérés. En formation, l'accompagnement des étudiant·es dans le développement d'une pensée complexe par rapport aux défis d'ingénierie paraît être un enjeu important. Le projet "expertissage" est une tentative d'accompagner tout au long du semestre les étudiant·es d'un cours de sciences des matériaux dans le passage d'une pensée simple quant aux choix à opérer (oui ou non) à une pensée complexe (comment décider sur la base des informations à disposition ? quelle prise de risque ?).
+ 
+Dans le cadre de ce café pédagogique, le coeur scientifique de "expertissage" sera exposé, de même que son expérimentation. Les échanges avec les participant·es contribueront à développer l'outil de scénarisation.
+
+</small>
+
+## Origine et Contexte
+
+Sam 3 min
+
+- Origine d’expertissage
+- Problèmes et enjeux identifiés
+
+## Cadre théorique
+
+Nico 7 min
+
+- Cadre théorique : poser les notions, poser la vision de l’apprentissage
+- Ecrire les 3-4 principes fondés retenus
+
+## Expertissage !
+
+Nico 2 min
+
+- Expertissage !
+- montrer le “délivrabnle”, càd la vidéo Youtube
+
+## Implémentation
+
+Sam 10 min
+
+- montrer comment il a implémenté, mis en action
+- contraintes du réel, COVID
+- exemples
+
+## Résultats
+
+Sam 5 min
+
+- Résultats
+- prlésewnter un cas clinique : Lara et son logigramme
+- conséquences pour la pratique de Sam : exercices plus durs, plus grande quantité d’exercices, toujours pas moins de théorie.
+- conséquences pour les étudiants : plus grande prise de notes, évolution du logigramme avant/après.
+
+## Perspecrtives
+
+Sam 3 min
+
+- perspectives
+- Examen : poser une question qui imoplique un logigramme. (voilà le problème, montrez moi le logigramme. pas de guidé).
+- variables... semi-expérimental
+- Une idée serait d’orienter client : montrer un exa “sans expertissage” et un exa “avec expertissage” et voir ce que dit le parton “quel examen prépare le mieux au métiers” ?
+
+## Débat
+
+## Crédits
+
+Crédits des images, par ordre d'apparition.
+
+[ThisisEngineering RAEng](https://unsplash.com/photos/xYCBw1uIP_M)
