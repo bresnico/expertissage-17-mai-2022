@@ -70,8 +70,29 @@ Nicolas Bressoud, HEP-VS
 <!-- - Cadre théorique : poser les notions, poser la vision de l’apprentissage -->
 <!-- - Ecrire les 3-4 principes fondés retenus -->
 
+. . . 
 
-## Expertissage !
+### Idée no. 1
+
+Un novice ne pense pas comme un expert.
+
+. . . 
+
+### Idée no. 2
+
+La **charge cognitive** est un paramètre déterminant dans l'apprentissage.
+
+. . . 
+
+### Idée no. 3
+
+Le développement d'une pensée complexe est enseignable explicitement.
+
+> ([Sweller, 1999](https://hepvs.ch); Lucien, 2012)
+
+## Expertissage ! {background-video=/vid/model.mov}
+
+![](vid/model.mov)
 
 <!-- Nico 2 min -->
 
