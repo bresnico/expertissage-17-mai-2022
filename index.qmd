@@ -88,16 +88,20 @@ La **charge cognitive** est un paramètre déterminant dans l'apprentissage.
 
 Le développement d'une pensée complexe est enseignable explicitement.
 
-> ([Sweller, 1999](https://hepvs.ch); Lucien, 2012)
+> ([Kirschner, Sweller, & Clark, 2010](https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_1); [Musial & Tricot, 2020](https://www.deboecksuperieur.com/ouvrage/9782807324190-precis-d-ingenierie-pedagogique))
 
-## Expertissage ! {background-video=/vid/model.mov}
-
-![](vid/model.mov)
+## Expertissage !
 
 <!-- Nico 2 min -->
 
 <!-- - Expertissage ! -->
 <!-- - montrer le “délivrabnle”, càd la vidéo Youtube -->
+
+**Entraînement explicite du simple au complexe**
+
+![](vid/model.gif)
+
+![](img/15_exp.png)
 
 ## Implémentation
 
