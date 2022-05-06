@@ -20,7 +20,7 @@ title-slide-attributes:
   data-background-opacity: "0.2"
 ---
 
-## Cadre (pour nous)
+## Cadre (pour nous) {visibility="hidden"}
 
 <small>
 
@@ -32,55 +32,284 @@ Dans le cadre de ce café pédagogique, le coeur scientifique de "expertissage" 
 
 ## Origine et Contexte
 
-Sam 3 min
+<!-- Sam 3 min -->
 
-- Origine d’expertissage
-- Problèmes et enjeux identifiés
+<!-- - Origine d’expertissage -->
+<!-- - Problèmes et enjeux identifiés -->
+
+#### Origine d’expertissage
+
+- Equilibre en théorie et pratique
+- Complexité de la tâche des ingénieurs --> gestion de l’incertitude sur les résultats
+- Discussion avec Nicolas
+
+#### Problèmes
+
+- Pas d’incertitude sur les résultats obtenus des sciences de base
+- Méthode de résolution « décousue » souvent utilisée par les étudiants peut être adaptée au système de notation
 
 ## Cadre théorique
 
-Nico 7 min
+<!-- Nico 7 min -->
 
-- Cadre théorique : poser les notions, poser la vision de l’apprentissage
-- Ecrire les 3-4 principes fondés retenus
+<!-- - Cadre théorique : poser les notions, poser la vision de l’apprentissage -->
+<!-- - Ecrire les 3-4 principes fondés retenus -->
+
 
 ## Expertissage !
 
-Nico 2 min
+<!-- Nico 2 min -->
 
-- Expertissage !
-- montrer le “délivrabnle”, càd la vidéo Youtube
+<!-- - Expertissage ! -->
+<!-- - montrer le “délivrabnle”, càd la vidéo Youtube -->
 
 ## Implémentation
 
-Sam 10 min
+<!-- Sam 10 min -->
 
-- montrer comment il a implémenté, mis en action
-- contraintes du réel, COVID
-- exemples
+<!-- - montrer comment il a implémenté, mis en action -->
+<!-- - contraintes du réel, COVID -->
+<!-- - exemples -->
+
+::: {.panel-tabset}
+
+### Contexte de formation
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](img/1_pratique.png)
+
+:::
+
+
+::: {.column width="40%"}
+
+<small>
+Semestre automne 2020 :
+
+::: {.nonincremental}
+- 5 semaines en présentiel + 10 semaines à distance, 18 étudiants francophones
+
+:::
+
+Semestre automne 2021 :
+
+::: {.nonincremental}
+- Complètement en présentiel, 8 étudiants dont 2 germanophones
+
+:::
+
+</small>
+
+:::
+
+::::
+
+### Planification de l'enseignement
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+![](img/2_pratique.png)
+
+:::
+
+::: {.column width="60%"}
+
+<small>
+Création des vidéos : Environ 1h de travail par minute de vidéo.
+
+Multiplication des exercices avec une complexité croissante :
+
+::: {.nonincremental}
+- Dans le chapitre
+- Entre les chapitres : ce qui a été appris au ch1 va devoir être utilisé au ch5
+- Exercices faits majoritairement en classe
+:::
+
+Utilisation des logigrammes permettant de visualiser le raisonnement utilisé
+
+</small>
+
+:::
+::::
+
+### Adaptation au COVID
+
+Théorie en vidéo
+
+::: {.nonincremental}
+-	Adapté au distanciel
+-	30’ au lieu de 1h30
+
+:::
+
+Résolution des exercices en groupe dans des « salles » sur Teams
+
+::: {.nonincremental}
+-	Solution de travail individuel n’a pas fonctionné
+-	Interaction prof-étudiant
+
+:::
+:::
+
 
 ## Résultats
 
-Sam 5 min
+<!-- Sam 5 min -->
 
-- Résultats
-- prlésewnter un cas clinique : Lara et son logigramme
-- conséquences pour la pratique de Sam : exercices plus durs, plus grande quantité d’exercices, toujours pas moins de théorie.
-- conséquences pour les étudiants : plus grande prise de notes, évolution du logigramme avant/après.
+<!-- - Résultats -->
+<!-- - prlésewnter un cas clinique : Lara et son logigramme -->
+<!-- - conséquences pour la pratique de Sam : exercices plus durs, plus grande quantité d’exercices, toujours pas moins de théorie. -->
+<!-- - conséquences pour les étudiants : plus grande prise de notes, évolution du logigramme avant/après. -->
 
-## Perspecrtives
+::: {.panel-tabset}
 
-Sam 3 min
+### Augmentation de la part pratique
 
-- perspectives
-- Examen : poser une question qui imoplique un logigramme. (voilà le problème, montrez moi le logigramme. pas de guidé).
-- variables... semi-expérimental
-- Une idée serait d’orienter client : montrer un exa “sans expertissage” et un exa “avec expertissage” et voir ce que dit le parton “quel examen prépare le mieux au métiers” ?
+Augmentation de la complexité des exercices proposé dans les séries
 
-## Débat
+:::: {.columns}
 
-## Crédits
+::: {.column width="50%"}
 
-Crédits des images, par ordre d'apparition.
+**Avant**
 
-[ThisisEngineering RAEng](https://unsplash.com/photos/xYCBw1uIP_M)
+Exemple avant expertissage 2018 – la question 1 est probablement la plus compliquée.
+
+![](img/3_result.png)
+
+![](img/4_result.png)
+
+:::
+
+::: {.column width="50%"}
+
+**Après**
+
+Avec expertissage, la difficulté des questions augmente de manière graduelle. La notion de corrosion (détérioration ave le temps) est ajoutée au problème. La dernière question correspond à la première MAIS la vitesse de corrosion doit être intégrée.
+
+![](img/5_result.png)
+
+![](img/6_result.png)
+
+:::
+
+::::
+
+### Corrigés
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+**Avant**
+
+Images du livre de cours
+
+:::
+
+::: {.column width="50%"}
+
+**Après**
+
+![](img/7_result.png)
+
+:::
+
+::::
+
+### Comparaison de logigrammes
+
+A gauche, difficulté de poser un raisonnement cohérent. Approche linéaire du problème 1-2-3-4. Attachement profond au calcul numérique (règles de 3)
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+![](img/8_result.jpg)
+:::
+
+
+::: {.column width="50%"}
+
+![](img/9_result.png)
+:::
+
+::::
+
+**Comparaison sur une tâche donnée : **
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](img/10_result.png)
+:::
+
+::: {.column width="50%"}
+
+![](img/11_result.png)
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](img/12_result.png)
+
+Complexité du problème VS description du raisonnement = Automatisation ?
+
+:::
+
+
+::: {.column width="50%"}
+
+![](img/13_result.png)
+
+Le calcul de la diminution d’épaisseur est moins détaillé que le reste donc probablement moins clair.
+Mais cela n’a pas bloqué le reste de son raisonnement
+
+
+:::
+::::
+
+
+### Effet collatéral
+
+Audience fortement supérieure au nombre d’étudiant.e.s de la HEI.
+
+![Statistiques au 28.04.2022](img/14_result.png){.r-stretch}
+
+:::
+
+## Perspectives
+
+<!-- Sam 3 min -->
+
+<!-- - perspectives -->
+<!-- - Examen : poser une question qui imoplique un logigramme. (voilà le problème, montrez moi le logigramme. pas de guidé). -->
+<!-- - variables... semi-expérimental -->
+<!-- - Une idée serait d’orienter client : montrer un exa “sans expertissage” et un exa “avec expertissage” et voir ce que dit le parton “quel examen prépare le mieux au métiers” ? -->
+
+- Définir des exercices d’examen dont la réponse doit être un logigramme
+- Evaluer les réponses des étudiants en fonction de la complexité du logigramme
+- Comparer complexité du raisonnement (logigramme) et l’incertitude sur le résultat
+
+
+
+## Échange {background-image=https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80 background-opacity="0.2" class=center}
+
+
+## Crédits {class=center}
+
+- [Image de titre par ThisisEngineering RAEng](https://unsplash.com/photos/xYCBw1uIP_M)
+
+- [Image finale par Jon Schnobrich](https://unsplash.com/photos/FlPc9_VocJ4)
+- Autres images par Samuel Rey-Mermet
+
