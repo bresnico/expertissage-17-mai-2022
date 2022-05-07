@@ -34,12 +34,31 @@ Dans le cadre de ce café pédagogique, le coeur scientifique de "expertissage" 
 
 ### Un exemple de scénarisation des cours pour ingénieur·es en formation
 
-Café pédagogique du mardi 17 mai 2022
+**Café pédagogique du mardi 17 mai 2022**
+
+:::: {.columns}
+
+:::{.column width="60%"}
+
+Samuel Rey-Mermet
+
+![](img/hesso.png){width="40%"}
+
+Nicolas Bressoud
+
+![](img/hepvs.png){width="40%"}
+
+:::
+
+:::{.column width="30%"}
+
+![](img/qr.png)
+
+:::
+
+::::
 
 
-Samuel Rey-Mermet, HES-SO
-
-Nicolas Bressoud, HEP-VS
 
 <small>
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://bresnico.github.io/expertissage-17-mai-2022/">Les slides de présentation</a> par Samuel Rey-Mermet et <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://nicolasbressoud.ch">Nicolas Bressoud</a> sont soumises à une licence <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
