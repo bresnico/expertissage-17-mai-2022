@@ -58,11 +58,11 @@ Nicolas Bressoud
 
 ::::
 
+<div style="font-size:60%">
+[Les slides de présentation](https://bresnico.github.io/expertissage-17-mai-2022) par Samuel Rey-Mermet et [Nicolas Bressoud](https:/nicolasbressoud.ch) sont soumises à une [licence CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1) <img style="height:22px!important;margin-left:3px; vertical-align: text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"> 
+<img style="height:22px!important;margin-left:3px; vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px; vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1">
+</div>
 
-
-<small>
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://bresnico.github.io/expertissage-17-mai-2022/">Les slides de présentation</a> par Samuel Rey-Mermet et <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://nicolasbressoud.ch">Nicolas Bressoud</a> sont soumises à une licence <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
-</small>
 
 ## Origine et Contexte
 
@@ -240,7 +240,11 @@ Augmentation de la complexité des exercices proposé dans les séries
 
 **Avant**
 
+<small>
+
 Exemple avant expertissage 2018 – la question 1 est probablement la plus compliquée.
+
+</small>
 
 ![](img/3_result.png)
 
@@ -252,8 +256,11 @@ Exemple avant expertissage 2018 – la question 1 est probablement la plus compl
 
 **Après**
 
+<small> 
+
 Avec expertissage, la difficulté des questions augmente de manière graduelle. La notion de corrosion (détérioration ave le temps) est ajoutée au problème. La dernière question correspond à la première MAIS la vitesse de corrosion doit être intégrée.
 
+</small>
 ![](img/5_result.png)
 
 ![](img/6_result.png)
