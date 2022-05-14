@@ -356,7 +356,7 @@ Audience fortement supérieure au nombre d’étudiant.e.s de la HEI.
 
 :::
 
-## Perspectives
+## Perspectives {class=center}
 
 <!-- Sam 3 min -->
 
