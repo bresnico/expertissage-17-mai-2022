@@ -94,13 +94,11 @@ Nicolas Bressoud
 ### Idée no. 1
 
 Un novice ne pense pas comme un expert.
-
 . . . 
 
 ### Idée no. 2
 
 La **charge cognitive** est un paramètre déterminant dans l'apprentissage.
-
 . . . 
 
 ### Idée no. 3
@@ -109,7 +107,7 @@ Le développement d'une pensée complexe est enseignable explicitement.
 
 <small>
 
-> ([Kirschner, Sweller, & Clark, 2010](https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_1); [Musial & Tricot, 2020](https://www.deboecksuperieur.com/ouvrage/9782807324190-precis-d-ingenierie-pedagogique))
+> ([Sweller, 1988](https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1202_4); [Kirschner, Sweller, & Clark, 2010](https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_1); [Musial & Tricot, 2020](https://www.deboecksuperieur.com/ouvrage/9782807324190-precis-d-ingenierie-pedagogique))
 
 </small>
 
