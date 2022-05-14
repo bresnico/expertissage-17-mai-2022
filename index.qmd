@@ -89,21 +89,18 @@ Nicolas Bressoud
 <!-- - Cadre théorique : poser les notions, poser la vision de l’apprentissage -->
 <!-- - Ecrire les 3-4 principes fondés retenus -->
 
-. . . 
 
 ### Idée no. 1
 
-Un novice ne pense pas comme un expert.
-. . . 
+- Un novice ne pense pas comme un expert.
 
 ### Idée no. 2
 
-La **charge cognitive** est un paramètre déterminant dans l'apprentissage.
-. . . 
+- La **charge cognitive** est un paramètre déterminant dans l'apprentissage.
 
 ### Idée no. 3
 
-Le développement d'une pensée complexe est enseignable explicitement.
+- Le développement d'une pensée complexe est enseignable explicitement.
 
 <small>
 
@@ -134,7 +131,7 @@ Le développement d'une pensée complexe est enseignable explicitement.
 
 ::: {.panel-tabset}
 
-### Contexte de formation
+### Contexte
 
 :::: {.columns}
 
@@ -167,7 +164,7 @@ Semestre automne 2021 :
 
 ::::
 
-### Planification de l'enseignement
+### Planification
 
 :::: {.columns}
 
@@ -197,7 +194,7 @@ Utilisation des logigrammes permettant de visualiser le raisonnement utilisé
 :::
 ::::
 
-### Adaptation au COVID
+### Adaptation COVID
 
 Théorie en vidéo
 
@@ -228,7 +225,7 @@ Résolution des exercices en groupe dans des « salles » sur Teams
 
 ::: {.panel-tabset}
 
-### Augmentation de la part pratique
+### Part pratique
 
 Augmentation de la complexité des exercices proposé dans les séries
 
@@ -289,7 +286,7 @@ Images du livre de cours
 
 ::::
 
-### Comparaison de logigrammes
+### Logigrammes
 
 A gauche, difficulté de poser un raisonnement cohérent. Approche linéaire du problème 1-2-3-4. Attachement profond au calcul numérique (règles de 3)
 
